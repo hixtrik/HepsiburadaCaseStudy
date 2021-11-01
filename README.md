@@ -14,6 +14,7 @@
 ## Notes
 
 - I don't want empty list on start, so list initially load by default search.
+- Search function only work when search text input more than 2 character.
 - Itunes api don't have wrapperType parameter, i use  media parameter instead of.
 
 
