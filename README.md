@@ -11,6 +11,12 @@
 - MVVM
 - Navigation Component
 
+## Notes
+
+- I don't want empty list on start, so list initially load by default search.
+- Itunes api don't have wrapperType parameter, i use  media parameter instead of.
+
+
 <p float="left">
 <img src="https://user-images.githubusercontent.com/20759424/139594201-30a0c310-f586-4086-bde5-247d00f02574.png" width="300">
 <img src="https://user-images.githubusercontent.com/20759424/139594641-9cf079c5-1e03-4585-8b2f-cc3bdb16b3ea.png" width="300">
